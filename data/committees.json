@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Research Committee",
+    "icon": "fas fa-microscope",
+    "chair": "[ Chair Name ]",
+    "desc": "Conducts research to support evidence-based programs, policy recommendations, and organizational decision-making.",
+    "delay": 1,
+    "members": ["[ Member 1 ]", "[ Member 2 ]", "[ Member 3 ]", "[ Member 4 ]"]
+  },
+  {
+    "title": "Projects Committee",
+    "icon": "fas fa-project-diagram",
+    "chair": "[ Chair Name ]",
+    "desc": "Plans, coordinates, and executes AYL's community outreach and leadership development projects from start to finish.",
+    "delay": 2,
+    "members": ["[ Member 1 ]", "[ Member 2 ]", "[ Member 3 ]", "[ Member 4 ]"]
+  },
+  {
+    "title": "Communications",
+    "icon": "fas fa-bullhorn",
+    "chair": "[ Chair Name ]",
+    "desc": "Manages AYL's brand, social media presence, publications, and all internal and external communications strategies.",
+    "delay": 3,
+    "members": ["[ Member 1 ]", "[ Member 2 ]", "[ Member 3 ]", "[ Member 4 ]"]
+  },
+  {
+    "title": "Membership Committee",
+    "icon": "fas fa-users",
+    "chair": "[ Chair Name ]",
+    "desc": "Recruits, onboards, and nurtures AYL members, ensuring an inclusive, engaged, and growing organizational community.",
+    "delay": 1,
+    "members": ["[ Member 1 ]", "[ Member 2 ]", "[ Member 3 ]", "[ Member 4 ]"]
+  },
+  {
+    "title": "External Affairs",
+    "icon": "fas fa-handshake",
+    "chair": "[ Chair Name ]",
+    "desc": "Builds and maintains partnerships with other organizations, government bodies, and private sector stakeholders.",
+    "delay": 2,
+    "members": ["[ Member 1 ]", "[ Member 2 ]", "[ Member 3 ]", "[ Member 4 ]"]
+  },
+  {
+    "title": "Finance Committee",
+    "icon": "fas fa-coins",
+    "chair": "[ Chair Name ]",
+    "desc": "Supports the Treasurer in financial planning, fundraising initiatives, sponsorship acquisition, and budget monitoring.",
+    "delay": 3,
+    "members": ["[ Member 1 ]", "[ Member 2 ]", "[ Member 3 ]", "[ Member 4 ]"]
+  },
+  {
+    "title": "Events Committee",
+    "icon": "fas fa-calendar-alt",
+    "chair": "[ Chair Name ]",
+    "desc": "Conceptualizes and manages AYL's events calendar including assemblies, socials, leadership forums, and major productions.",
+    "delay": 1,
+    "members": ["[ Member 1 ]", "[ Member 2 ]", "[ Member 3 ]", "[ Member 4 ]"]
+  }
+]

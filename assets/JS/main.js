@@ -7,9 +7,12 @@ import { initSectionObserver } from './animations/sectionObserver.js';
 import { initStaggerCards } from './animations/staggerCards.js';
 
 import { initActiveNav } from './core/activeNav.js';
+import { initCommittees } from './core/committees.js';
+import { initGallery } from './core/gallery.js';
 import { initNavbar } from './core/navbar.js';
 import { initLogoText } from './core/logoText.js';
 import { initOfficers } from './core/officers.js';
+import { initPrograms } from './core/programs.js';
 import { initScrollProgress } from './core/scrollProgress.js';
 import { initSmoothScroll } from './core/smoothScroll.js';
 
@@ -45,6 +48,9 @@ document.addEventListener('DOMContentLoaded', async () => {
   console.log('✅ Components loaded');
 
   await initOfficers();
+  await initCommittees();
+  await initGallery();
+  await initPrograms();
 
   // ── INIT SYSTEMS ──
   const updateNavbar = initNavbar?.() || (() => {});

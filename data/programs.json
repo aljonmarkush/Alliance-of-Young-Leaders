@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Leadership Trainings",
+    "category": "Leadership",
+    "icon": "fas fa-chalkboard-teacher",
+    "img": "",
+    "desc": "Intensive workshops and seminars designed to build core leadership competencies including communication, strategic thinking, and team management.",
+    "link": "#join",
+    "linkLabel": "Get Involved",
+    "delay": 1
+  },
+  {
+    "title": "Community Projects",
+    "category": "Community",
+    "icon": "fas fa-hands-helping",
+    "img": "",
+    "desc": "Service-oriented programs that directly address community needs — from livelihood initiatives to educational support and environmental advocacy.",
+    "link": "#join",
+    "linkLabel": "Get Involved",
+    "delay": 2
+  },
+  {
+    "title": "Youth Advocacy Campaigns",
+    "category": "Advocacy",
+    "icon": "fas fa-microphone-alt",
+    "img": "",
+    "desc": "Campaigns that amplify youth voices on pressing social issues, from mental health awareness to civic engagement and democratic participation.",
+    "link": "#join",
+    "linkLabel": "Get Involved",
+    "delay": 3
+  },
+  {
+    "title": "Volunteer Activities",
+    "category": "Volunteer",
+    "icon": "fas fa-seedling",
+    "img": "",
+    "desc": "Regular volunteer drives that let members put their values into action — supporting local institutions, disaster response, and community uplift.",
+    "link": "#join",
+    "linkLabel": "Get Involved",
+    "delay": 1
+  },
+  {
+    "title": "Partner Organizations",
+    "category": "Partnership",
+    "icon": "fas fa-puzzle-piece",
+    "img": "",
+    "desc": "We collaborate with schools, NGOs, LGUs, and youth organizations to co-create programs that multiply our reach and deepen our impact.",
+    "link": "#contact",
+    "linkLabel": "Partner With Us",
+    "delay": 2
+  }
+]
