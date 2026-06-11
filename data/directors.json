@@ -2,7 +2,7 @@
   {
     "name": "Mr. Harold R. Matutina",
     "position": "Director for Partnership and Sponsorship",
-    "img": "assets/img/Directors/MATUTINA_DRCTRPART&SPONS.jpg",
+    "img": "assets/img/Directors/MATUTINA_DRCTRPART&SPONS.png",
     "roleType": "director",
     "desc": "Establishes institutional alliances and secures strategic corporate sponsorships to support and fund the organization's nationwide initiatives.",
     "isFeatured": false,
@@ -28,7 +28,7 @@
   {
     "name": "Mr. John Lloyd Balane",
     "position": "Deputy Director for Membership",
-    "img": "assets/img/Directors/BALANE_DEPDRCTRMEM.jpg",
+    "img": "assets/img/Directors/BALANE_DEPDRCTRMEM.png",
     "roleType": "director",
     "desc": "Assists the Membership Director in managing member databases, tracking applications, and supporting local chapter engagements.",
     "isFeatured": false,
@@ -41,7 +41,7 @@
   {
   "name": "Mr. John L. Palangeo",
   "position": "Director for Project",
-  "img": "assets/img/directors/palangeo_drctrproj.jpg",
+  "img": "assets/img/Directors/JON_1080X1080.png",
   "roleType": "director",
   "desc": "Spearheads the conceptualization, planning, and operational execution of the organization's core projects and flagship events.",
   "isFeatured": false,

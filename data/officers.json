@@ -2,7 +2,7 @@
   {
     "name": "Mr. Maxil S. Urocay",
     "position": "National Adviser",
-    "img": "assets/img/Advisers/UROCAY_ADV.jpg",
+    "img": "assets/img/Advisers/UROCAY_ADV.png",
     "desc": "Provides high-level strategic counsel, guiding the alliance's nationwide policy directions and anchoring institutional growth at a national scale.",
     "isFeatured": true,
     "delay": 0,
@@ -26,7 +26,7 @@
   {
     "name": "Mr. Charie Estaquio",
     "position": "National President",
-    "img": "assets/img/Executive/ESTAQUIO_PRES.jpg",
+    "img": "assets/img/Executive/ESTAQUIO_PRES.png",
     "desc": "Visionary leader steering the organization's national strategic direction, fostering unity across all local chapters, and serving as the primary official representative of AYL.",
     "isFeatured": false,
     "delay": 2,
@@ -66,7 +66,7 @@
   {
     "name": "Mr. Juan Carlos Leon A. Sumbad",
     "position": "National Secretary-General",
-    "img": "assets/img/Executive/SUMAD_SECGEN.jpg",
+    "img": "assets/img/Executive/SUMAD_SECGEN.png",
     "desc": "Manages official institutional communications, preserves vital administrative records, and ensures seamless operational workflow throughout the national council.",
     "isFeatured": false,
     "delay": 5,
@@ -78,7 +78,7 @@
   {
     "name": "Mr. Lance T. Buenviaje ",
     "position": "National Deputy Secretary-General",
-    "img": "assets/img/Executive/BUENVIAJE_DEPSECGEN.jpg",
+    "img": "assets/img/Executive/BUENVIAJE_DEPSECGEN.png",
     "desc": "Assists the Secretary-General in administrative oversight, supervising documentation pipelines and supporting national secretarial management tasks.",
     "isFeatured": false,
     "delay": 6,
@@ -102,7 +102,7 @@
   {
     "name": "Mr. Junathan Tawide Pabia",
     "position": "National Deputy Treasurer",
-    "img": "assets/img/Executive/PABIA_DEPTREAS.jpg",
+    "img": "assets/img/Executive/PABIA_DEPTREAS.png",
     "desc": "Supports the General Treasurer in ledger management, fee collection tracking, and assisting with accurate financial recording processes.",
     "isFeatured": false,
     "delay": 8,
@@ -114,7 +114,7 @@
   {
     "name": "Mr. Chriz Quelzin Aranza",
     "position": "National Auditor",
-    "img": "assets/img/Executive/ARANZA_AUD.jpg",
+    "img": "assets/img/Executive/ARANZA_AUD.png",
     "desc": "Enforces strict financial accountability, reviews asset balances, and conducts meticulous internal reviews to maintain integrity within organizational transactions.",
     "isFeatured": false,
     "delay": 9,
@@ -138,7 +138,7 @@
   {
     "name": "Mr. Christian Rey Cahanap",
     "position": "National Social Media Manager",
-    "img": "assets/img/Executive/CAHANAP_SOCMEDMNGR.jpg",
+    "img": "assets/img/Executive/CAHANAP_SOCMEDMNGR.png",
     "desc": "Drives the alliance's digital presence, conceptualizing campaign visuals and managing interactive media narratives to elevate youth engagement online.",
     "isFeatured": false,
     "delay": 11,
