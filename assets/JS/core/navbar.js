@@ -1,1 +1,44 @@
-(function(_0x2dea02,_0x18684a){const _0x50bf59=a0_0x7994,_0xb34a63=_0x2dea02();while(!![]){try{const _0x5ac6e0=parseInt(_0x50bf59(0xdc))/0x1*(parseInt(_0x50bf59(0xf1))/0x2)+-parseInt(_0x50bf59(0xe4))/0x3*(-parseInt(_0x50bf59(0xf7))/0x4)+parseInt(_0x50bf59(0xf4))/0x5*(-parseInt(_0x50bf59(0xf9))/0x6)+-parseInt(_0x50bf59(0xf2))/0x7+parseInt(_0x50bf59(0xef))/0x8*(parseInt(_0x50bf59(0xee))/0x9)+-parseInt(_0x50bf59(0xec))/0xa*(parseInt(_0x50bf59(0xe8))/0xb)+parseInt(_0x50bf59(0xf3))/0xc*(parseInt(_0x50bf59(0xeb))/0xd);if(_0x5ac6e0===_0x18684a)break;else _0xb34a63['push'](_0xb34a63['shift']());}catch(_0x29c3b6){_0xb34a63['push'](_0xb34a63['shift']());}}}(a0_0x377d,0x774e9));export function initNavbar(){const _0x5acca3=a0_0x7994,_0x130d2f=document[_0x5acca3(0xfa)](_0x5acca3(0xed)),_0x968acd=document[_0x5acca3(0xfa)](_0x5acca3(0xdd)),_0xe4a0ad=document['getElementById'](_0x5acca3(0xe9)),_0x34b2e9=document[_0x5acca3(0xea)](_0x5acca3(0xe5));if(!_0x130d2f||!_0x968acd||!_0xe4a0ad)return console[_0x5acca3(0xe3)](_0x5acca3(0xe0)),()=>{};function _0x58ebec(){const _0x1acc97=_0x5acca3;window['scrollY']>0x3c?_0x130d2f['classList'][_0x1acc97(0xf8)](_0x1acc97(0xf5)):_0x130d2f['classList']['remove'](_0x1acc97(0xf5));}return _0x968acd['addEventListener']('click',()=>{const _0x2854e2=_0x5acca3,_0x2ac439=_0xe4a0ad[_0x2854e2(0xf6)][_0x2854e2(0xfb)]('open');_0x968acd[_0x2854e2(0xf6)][_0x2854e2(0xfb)]('open',_0x2ac439),_0x968acd[_0x2854e2(0xf0)]('aria-expanded',_0x2ac439);}),_0x34b2e9[_0x5acca3(0xe1)](_0x43fe30=>{const _0x41cfa3=_0x5acca3;_0x43fe30['addEventListener'](_0x41cfa3(0xe6),()=>{const _0x44acdc=_0x41cfa3;_0xe4a0ad[_0x44acdc(0xf6)][_0x44acdc(0xde)](_0x44acdc(0xe7)),_0x968acd[_0x44acdc(0xf6)]['remove'](_0x44acdc(0xe7));});}),document['addEventListener'](_0x5acca3(0xe6),_0x3678b6=>{const _0x1bc637=_0x5acca3;!_0x130d2f[_0x1bc637(0xdf)](_0x3678b6[_0x1bc637(0xe2)])&&(_0xe4a0ad[_0x1bc637(0xf6)][_0x1bc637(0xde)]('open'),_0x968acd[_0x1bc637(0xf6)][_0x1bc637(0xde)]('open'));}),_0x58ebec;}function a0_0x7994(_0x4387ff,_0x424bb5){_0x4387ff=_0x4387ff-0xdc;const _0x377d54=a0_0x377d();let _0x799436=_0x377d54[_0x4387ff];if(a0_0x7994['npiLyf']===undefined){var _0x54f8a1=function(_0x634f50){const _0x3e927d='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x130d2f='',_0x968acd='';for(let _0xe4a0ad=0x0,_0x34b2e9,_0x58ebec,_0x2ac439=0x0;_0x58ebec=_0x634f50['charAt'](_0x2ac439++);~_0x58ebec&&(_0x34b2e9=_0xe4a0ad%0x4?_0x34b2e9*0x40+_0x58ebec:_0x58ebec,_0xe4a0ad++%0x4)?_0x130d2f+=String['fromCharCode'](0xff&_0x34b2e9>>(-0x2*_0xe4a0ad&0x6)):0x0){_0x58ebec=_0x3e927d['indexOf'](_0x58ebec);}for(let _0x43fe30=0x0,_0x3678b6=_0x130d2f['length'];_0x43fe30<_0x3678b6;_0x43fe30++){_0x968acd+='%'+('00'+_0x130d2f['charCodeAt'](_0x43fe30)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x968acd);};a0_0x7994['OPuUTO']=_0x54f8a1,a0_0x7994['lzioOR']={},a0_0x7994['npiLyf']=!![];}const _0x169a95=_0x377d54[0x0],_0x10e4ee=_0x4387ff+_0x169a95,_0x3ebe73=a0_0x7994['lzioOR'][_0x10e4ee];return!_0x3ebe73?(_0x799436=a0_0x7994['OPuUTO'](_0x799436),a0_0x7994['lzioOR'][_0x10e4ee]=_0x799436):_0x799436=_0x3ebe73,_0x799436;}function a0_0x377d(){const _0x3b7336=['BMf2lxrVz2DSzq','CMvTB3zL','y29UDgfPBNm','tMf2yMfYigvSzw1LBNrZig5VDcbMB3vUzc4Gu2TPChbPBMCGAw5PDgLHBgL6yxrPB24U','zM9YrwfJAa','DgfYz2v0','D2fYBG','mtHPzvDjAgC','lM5HDI1SAw5R','y2XPy2S','B3bLBG','mte2nKPNAfHIBq','BMf2lwXPBMTZ','CxvLCNLtzwXLy3rVCKfSBa','ody0ote2rwTtweTv','mJCXndbHz3fWAhG','BMf2yMfY','nZjqvezAz28','ntK5nJHZEe1gwMm','C2v0qxr0CMLIDxrL','otmYodi2DKzkCwHw','nJy1mtqWzLHhEuzY','mtmYvvjcwgv0','ndm5mtCYmhPyswPPvW','C2nYB2XSzwq','y2XHC3nmAxn0','mZi3nJy0sMXfuMPL','ywrK','nKjwD2D0tW','z2v0rwXLBwvUDej5swq','Dg9Nz2XL','muXPEuT5Cq'];a0_0x377d=function(){return _0x3b7336;};return a0_0x377d();}
+export function initNavbar() {
+  // DOM selection
+  const navbar = document.getElementById('navbar');
+  const navToggle = document.getElementById('nav-toggle');
+  const navLinks = document.getElementById('nav-links');
+  const navLinkItems = document.querySelectorAll('.nav-link');
+
+  // Guard Clause: If the elements aren't in the DOM yet, return an empty function
+  // to prevent the scroll manager from crashing.
+  if (!navbar || !navToggle || !navLinks) {
+    console.warn('Navbar elements not found. Skipping initialization.');
+    return () => {}; 
+  }
+
+  function updateNavbar() {
+    if (window.scrollY > 60) {
+      navbar.classList.add('scrolled');
+    } else {
+      navbar.classList.remove('scrolled');
+    }
+  }
+
+  navToggle.addEventListener('click', () => {
+    const isOpen = navLinks.classList.toggle('open');
+    navToggle.classList.toggle('open', isOpen);
+    navToggle.setAttribute('aria-expanded', isOpen);
+  });
+
+  navLinkItems.forEach(link => {
+    link.addEventListener('click', () => {
+      navLinks.classList.remove('open');
+      navToggle.classList.remove('open');
+    });
+  });
+
+  document.addEventListener('click', (e) => {
+    if (!navbar.contains(e.target)) {
+      navLinks.classList.remove('open');
+      navToggle.classList.remove('open');
+    }
+  });
+
+  return updateNavbar;
+}
