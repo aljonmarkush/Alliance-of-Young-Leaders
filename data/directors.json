@@ -19,8 +19,10 @@
     "isFeatured": false,
     "delay": 2,
     "socials": {
-      "facebook": "#",
-      "instagram": "#"
+      "facebook": "https://www.facebook.com/gehanaeri?mibextid=wwXIfr&mibextid=wwXIfr",
+      "instagram": "https://www.instagram.com/vogu.ehana?igsh=Y2o4NGkxbDNjdXk5&utm_source=qr",
+      "linkedin": "https://www.linkedin.com/in/hana-soliven-b031a239a?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+      "email": "mailto:onlyhana.gluv14@gmail.com"
     }
   },
   {
@@ -32,7 +34,8 @@
     "delay": 3,
     "socials": {
       "facebook": "https://www.facebook.com/share/18bDJFQJgQ/",
-      "instagram": "https://www.instagram.com/imjl_enalab?igsh=MXQ2Z2RrN2dlOWthcg=="
+      "instagram": "https://www.instagram.com/imjl_enalab?igsh=MXQ2Z2RrN2dlOWthcg==",
+      "email": "mailto:jlenalab@gmail.com"
     }
   },
   {
@@ -45,7 +48,8 @@
   "socials": {
     "facebook": "https://www.facebook.com/whateveryen005",
     "instagram": "https://www.instagram.com/yen_.005/",
-    "linkedin": "https://www.linkedin.com/in/john-palangeo-46aaa1277/"
+    "linkedin": "https://www.linkedin.com/in/john-palangeo-46aaa1277/",
+    "email": "mailto:johnpalangeo96@gmail.com"
   }
 },
   {
@@ -80,8 +84,9 @@
     "isFeatured": false,
     "delay": 7,
     "socials": {
-      "facebook": "#",
-      "linkedin": "#"
+      "facebook": "https://www.facebook.com/share/1D2K3VJN1K/",
+      "linkedin": "https://www.instagram.com/o.sijiii?igsh=MWk1ZzE3N2RyNWpuNg==",
+      "email": "mailto:ongceegi@gmail.com"
     }
   }
 ]

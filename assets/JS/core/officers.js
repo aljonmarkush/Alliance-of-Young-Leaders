@@ -31,11 +31,36 @@ export async function initOfficers() {
       const placeholderClass = officer.img ? '' : 'officer-placeholder';
 
       const socialLinksHTML = Object.entries(officer.socials || {})
-        .map(([platform, url]) => `
-          <a href="${url}" target="_blank" rel="noopener noreferrer" aria-label="${platform}">
-            <i class="fab fa-${platform}"></i>
-          </a>
-        `).join('');
+        .map(([platform, url]) => {
+
+        let iconClass = '';
+
+        switch (platform) {
+          case 'facebook':
+            iconClass = 'fab fa-facebook';
+            break;
+          case 'instagram':
+            iconClass = 'fab fa-instagram';
+            break;
+          case 'linkedin':
+           iconClass = 'fab fa-linkedin';
+            break;
+         case 'twitter':
+            iconClass = 'fab fa-twitter';
+           break;
+         case 'email':
+           iconClass = 'fas fa-envelope';
+           break;
+         default:
+           iconClass = 'fas fa-link';
+          }
+
+       return `
+         <a href="${url}" target="_blank" rel="noopener noreferrer" aria-label="${platform}">
+          <i class="${iconClass}"></i>
+         </a>
+         `; 
+      }).join('');
 
       const cardHTML = `
         <div class="officer-card ${featuredClass} reveal ${delayClass}">
